@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **joelhagvall/joelhagvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋  
+Ny name is Joel Hägvall. <br>
+📍 Stockholm, Sweden 🇸🇪  
+📧 `joel.hagvall1@gmail.com`
+
+## Tech I Like
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
