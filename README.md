@@ -23,7 +23,9 @@ My name is Joel Hägvall. <br>
 Connect with me on: <br>
 <a href="https://www.linkedin.com/in/joel-h%C3%A4gvall-810601147/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="80" height="20"/>
-</a>
+</a> <br>
+Personal site:
+<a href="https://joel-hagvall.vercel.app/">https://joel-hagvall.vercel.app/
 
 
 
