@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 My name is Joel Hägvall. <br>
 <br>
 📍 Stockholm, Sweden 🇸🇪  
-📧 `joel.hagvall1@gmail.com`  
+📧 `joel.hagvall1@gmail.com`<br>
+🔗 [`https://joel-hagvall.vercel.app/`](https://joel-hagvall.vercel.app/)
+
 <br>
 Connect with me on: <br>
 <a href="https://www.linkedin.com/in/joel-h%C3%A4gvall-810601147/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="80" height="20"/>
 </a> <br>
-Personal site:
-<a href="https://joel-hagvall.vercel.app/">https://joel-hagvall.vercel.app/
 
 
 
