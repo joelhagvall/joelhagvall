@@ -43,3 +43,6 @@ Connect with me on: <br>
 <a href="https://nextjs.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </a>
+<a href="https://swift.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+</a>
