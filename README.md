@@ -19,7 +19,7 @@ My name is Joel Hägvall. <br>
 <br>
 📍 Stockholm, Sweden 🇸🇪  
 📧 `joel.hagvall1@gmail.com`<br>
-🔗 [`https://joel-hagvall.vercel.app/`](https://joel-hagvall.vercel.app/)
+🔗 [`https://joelhagvall.com/`](https://joelhagvall.com/)
 
 <br>
 Connect with me on: <br>
