@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Joel Hägvall. <br>
 <br>
 📍 Stockholm, Sweden 🇸🇪  
-📧 `joel.hagvall1@gmail.com`<br>
+📧 `work@joelhagvall.com`<br>
 🔗 [`https://joelhagvall.com/`](https://joelhagvall.com/)
 
 <br>
